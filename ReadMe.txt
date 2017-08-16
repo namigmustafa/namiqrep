@@ -7,3 +7,5 @@ and also here
 
 
 User2 added here again and again
+
+user2 added merhaba text here
